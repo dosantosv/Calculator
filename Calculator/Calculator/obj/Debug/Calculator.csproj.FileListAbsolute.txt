@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\Workspace\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Dell\Desktop\Workspace\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Dell\Desktop\Workspace\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Dell\Desktop\Workspace\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Workspace\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Workspace\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Workspace\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Dell\Desktop\Workspace\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\vdosa\OneDrive\Área de Trabalho\Workspace\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\vdosa\OneDrive\Área de Trabalho\Workspace\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\vdosa\OneDrive\Área de Trabalho\Workspace\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\vdosa\OneDrive\Área de Trabalho\Workspace\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\vdosa\OneDrive\Área de Trabalho\Workspace\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\vdosa\OneDrive\Área de Trabalho\Workspace\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\vdosa\OneDrive\Área de Trabalho\Workspace\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\vdosa\OneDrive\Área de Trabalho\Workspace\Calculator\Calculator\bin\Debug\Calculator.pdb
